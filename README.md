@@ -1,11 +1,14 @@
 # CLI-Directory-structure
-pwd
-mkdir HiCoders
-cd Hicoders
-mkdir Preperation CSS
-cd Preperation
-mkdir Slides Researches My_notes
-pwd
-cd My_notes
-echo Intro >> Lecture_01.txt
-echo Wellcome to Hicoders! >> Lecture_01.txt
+to see where I am " pwd "
+to create a new folder on the desktop.  " mkdir HiCoders " 
+to go to hicoders folder  " cd Hicoders "
+to create a new file on the HiCoders " mkdir Preperation CSS "
+to go to Preperation file " cd Preperation "
+to create three  new files on the Preperation. " mkdir Slides Researches My_notes "
+to see where i am " pwd "
+to go to My_notes file " cd My_notes "
+to create a new text file with "intro" in it. " echo Intro >> Lecture_01.txt "
+to create a new text file with "Wellcome to Hicoders!" in it.  "echo Wellcome to Hicoders! >> Lecture_01.txt "
+to add a README.md file  " add . README.md "
+to add a commit commit -m "CLI commands written"
+to copy CLI file to GitHub " git pusch origin main "
